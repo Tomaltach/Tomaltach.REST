@@ -1,0 +1,14 @@
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\bin\Release\netstandard1.1\Tomaltach.REST.deps.json
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\bin\Release\netstandard1.1\Tomaltach.REST.dll
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\bin\Release\netstandard1.1\Tomaltach.REST.pdb
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.csprojResolveAssemblyReference.cache
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.AssemblyInfo.cs
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.dll
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.pdb
+C:\Users\tdonegan\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\bin\Release\netstandard1.1\Tomaltach.REST.deps.json
+C:\Users\tdonegan\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\bin\Release\netstandard1.1\Tomaltach.REST.dll
+C:\Users\tdonegan\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\bin\Release\netstandard1.1\Tomaltach.REST.pdb
+C:\Users\tdonegan\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.csprojResolveAssemblyReference.cache
+C:\Users\tdonegan\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.AssemblyInfo.cs
+C:\Users\tdonegan\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.dll
+C:\Users\tdonegan\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.pdb

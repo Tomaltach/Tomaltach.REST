@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Tomaltach.REST</id>
+    <version>1.0.2</version>
+    <authors>Thomas Donegan</authors>
+    <owners>Thomas Donegan</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>To allow a connection to a Web API using an abstract class. REST service made to save time for later projects.</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2017 (c) Tomaltach. All rights reserved.</copyright>
+    <tags>REST</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard1.4">
+        <dependency id="JetBrains.Annotations" version="10.4.0" exclude="Build,Analyzers" />
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard1.5">
+        <dependency id="JetBrains.Annotations" version="10.4.0" exclude="Build,Analyzers" />
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="JetBrains.Annotations" version="10.4.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\bin\Release\netstandard1.4\Tomaltach.REST.dll" target="lib\netstandard1.4\Tomaltach.REST.dll" />
+    <file src="c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\bin\Release\netstandard1.5\Tomaltach.REST.dll" target="lib\netstandard1.5\Tomaltach.REST.dll" />
+    <file src="c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\bin\Release\net45\Tomaltach.REST.dll" target="lib\net45\Tomaltach.REST.dll" />
+  </files>
+</package>

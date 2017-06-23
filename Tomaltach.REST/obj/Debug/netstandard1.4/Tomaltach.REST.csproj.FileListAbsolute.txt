@@ -1,0 +1,7 @@
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\bin\Debug\netstandard1.4\Tomaltach.REST.deps.json
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\bin\Debug\netstandard1.4\Tomaltach.REST.dll
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\obj\Debug\netstandard1.4\Tomaltach.REST.csprojResolveAssemblyReference.cache
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\obj\Debug\netstandard1.4\Tomaltach.REST.AssemblyInfo.cs
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\bin\Debug\netstandard1.4\Tomaltach.REST.pdb
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\obj\Debug\netstandard1.4\Tomaltach.REST.dll
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\obj\Debug\netstandard1.4\Tomaltach.REST.pdb

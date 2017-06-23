@@ -1,0 +1,8 @@
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\obj\Release\Tomaltach.REST.AssemblyInfo.cs
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\obj\Release\Tomaltach.REST.csprojResolveAssemblyReference.cache
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\bin\Release\Tomaltach.REST.dll
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\bin\Release\Tomaltach.REST.pdb
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\bin\Release\JetBrains.Annotations.dll
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\bin\Release\Newtonsoft.Json.dll
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\obj\Release\Tomaltach.REST.dll
+c:\users\tdonegan\documents\visual studio 2017\Projects\Nugets\Tomaltach\Tomaltach.REST\obj\Release\Tomaltach.REST.pdb
