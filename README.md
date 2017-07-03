@@ -32,13 +32,12 @@ URI so far where **api** is built in:
 - The uri here will be the api call. Pass the model and the function will convert it to json and post it.
 
 ### Example on how to use
-    public interface IUserService : RestService
-    {
-        // add abstract methods        
+    public interface IUserService : IRestService
+    {        
         // add UserService specific methods
     }
 
-    public class UserService : IUserService
+    public class UserService : RestService, IUserService
     {
         public override string BaseURI { get; set; }    
         public override string Controller { get; set; }
