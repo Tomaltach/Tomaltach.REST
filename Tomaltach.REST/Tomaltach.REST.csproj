@@ -7,13 +7,14 @@
     <Authors>Thomas Donegan</Authors>
     <Description>To allow a connection to a Web API using an abstract class. REST service made to save time for later projects.</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <PackageReleaseNotes>Just finished project.</PackageReleaseNotes>
     <Copyright>Copyright 2017 (c) Tomaltach. All rights reserved.</Copyright>
     <PackageTags>REST</PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Version>1.0.4</Version>
     <RepositoryUrl>https://github.com/Tomaltach/Tomaltach.REST</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/Tomaltach/Tomaltach.REST</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
