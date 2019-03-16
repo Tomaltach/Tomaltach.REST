@@ -12,3 +12,10 @@ C:\Users\tdonegan\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\obj\Release\net
 C:\Users\tdonegan\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.AssemblyInfo.cs
 C:\Users\tdonegan\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.dll
 C:\Users\tdonegan\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.pdb
+C:\Users\cloud\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\bin\Release\netstandard1.1\Tomaltach.REST.deps.json
+C:\Users\cloud\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\bin\Release\netstandard1.1\Tomaltach.REST.dll
+C:\Users\cloud\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\bin\Release\netstandard1.1\Tomaltach.REST.pdb
+C:\Users\cloud\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.AssemblyInfo.cs
+C:\Users\cloud\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.dll
+C:\Users\cloud\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.pdb
+C:\Users\cloud\Documents\GitHub\Tomaltach.REST\Tomaltach.REST\obj\Release\netstandard1.1\Tomaltach.REST.csprojResolveAssemblyReference.cache

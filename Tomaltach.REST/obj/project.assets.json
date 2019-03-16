@@ -2812,10 +2812,11 @@
   },
   "libraries": {
     "JetBrains.Annotations/10.4.0": {
-      "sha512": "BHOL9R1ueuzAJTHvWpczsxCFoKBzv2ya3zC7mvj4Rp1HkFNSMZOPTNSYSwwTmva/Lv3DHmqOTZ50IBOQh8Lg1g==",
+      "sha512": "kjUPEwlfJSKglzubShOIZ3yhap+9vGz3QTl8isE9+CNkCefW9De8pv8fwV6U7N+HMsJBx9f/R5pnuxKlT2FQOA==",
       "type": "package",
       "path": "jetbrains.annotations/10.4.0",
       "files": [
+        ".signature.p7s",
         "jetbrains.annotations.10.4.0.nupkg.sha512",
         "jetbrains.annotations.nuspec",
         "lib/net/JetBrains.Annotations.dll",
@@ -2959,10 +2960,11 @@
       ]
     },
     "Newtonsoft.Json/10.0.3": {
-      "sha512": "wBM7i7i3U2WX0ecor4zdVGvgrwFUjuigBoHKiL+nH39fCOpCPjBY3RDqJM32edvdyTAVdjzlccHsg41+/+zpSA==",
+      "sha512": "MoATFm6YJyk5OdqDdxDWfKe5dkY3Cygu0wrpKPH/LbWtMmSuD/3G/JIInt9sIJN7hKQOFYCIb2UjLc2vO5byQQ==",
       "type": "package",
       "path": "newtonsoft.json/10.0.3",
       "files": [
+        ".signature.p7s",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -5461,10 +5463,11 @@
       ]
     },
     "System.Runtime.Serialization.Formatters/4.3.0": {
-      "sha512": "KT591AkTNFOTbhZlaeMVvfax3RqhH1EJlcwF50Wm7sfnBLuHiOeZRRKrr1ns3NESkM20KPZ5Ol/ueMq5vg4QoQ==",
+      "sha512": "W4UqymabiCb1xxuKrspJCzCHW95VZQ3GCmzpDYHvJxVUvPY2siwU4A5rPu8ERaRPUvQRaO3jdX8Gr+oe5Y4JCA==",
       "type": "package",
       "path": "system.runtime.serialization.formatters/4.3.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6332,15 +6335,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tdonegan\\.nuget\\packages\\": {}
+    "C:\\Users\\cloud\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.4",
+    "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tdonegan\\Documents\\GitHub\\Tomaltach.REST\\Tomaltach.REST\\Tomaltach.REST.csproj",
+      "projectUniqueName": "C:\\Users\\cloud\\Documents\\GitHub\\Tomaltach.REST\\Tomaltach.REST\\Tomaltach.REST.csproj",
       "projectName": "Tomaltach.REST",
-      "projectPath": "C:\\Users\\tdonegan\\Documents\\GitHub\\Tomaltach.REST\\Tomaltach.REST\\Tomaltach.REST.csproj",
-      "outputPath": "C:\\Users\\tdonegan\\Documents\\GitHub\\Tomaltach.REST\\Tomaltach.REST\\obj\\",
+      "projectPath": "C:\\Users\\cloud\\Documents\\GitHub\\Tomaltach.REST\\Tomaltach.REST\\Tomaltach.REST.csproj",
+      "outputPath": "C:\\Users\\cloud\\Documents\\GitHub\\Tomaltach.REST\\Tomaltach.REST\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "originalTargetFrameworks": [

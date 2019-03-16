@@ -3,18 +3,22 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard1.1;netstandard1.4;netstandard1.5;net45</TargetFrameworks>
     <PackageId>Tomaltach.REST</PackageId>
-    <PackageVersion>1.0.4</PackageVersion>
+    <PackageVersion>1.1.0</PackageVersion>
     <Authors>Thomas Donegan</Authors>
     <Description>To allow a connection to a Web API using an abstract class. REST service made to save time for later projects.</Description>
-    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <PackageReleaseNotes>Just finished project.</PackageReleaseNotes>
-    <Copyright>Copyright 2017 (c) Tomaltach. All rights reserved.</Copyright>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Bug fixes;
+- Fix for BaseURI null error.</PackageReleaseNotes>
+    <Copyright>Copyright 2019 (c) Tomaltach. All rights reserved.</Copyright>
     <PackageTags>REST</PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.4</Version>
+    <Version>1.1.0</Version>
     <RepositoryUrl>https://github.com/Tomaltach/Tomaltach.REST</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageProjectUrl>https://github.com/Tomaltach/Tomaltach.REST</PackageProjectUrl>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <FileVersion>1.1.0.0</FileVersion>
+    <PackageLicenseUrl>https://github.com/Tomaltach/Tomaltach.REST/blob/master/license.txt</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>

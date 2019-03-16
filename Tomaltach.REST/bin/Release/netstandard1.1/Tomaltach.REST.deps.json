@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v1.1": {},
     ".NETStandard,Version=v1.1/": {
-      "tomaltach.rest/1.0.4": {
+      "tomaltach.rest/1.1.0": {
         "dependencies": {
           "JetBrains.Annotations": "10.4.0",
           "NETStandard.Library": "1.6.1",
@@ -346,7 +346,7 @@
     }
   },
   "libraries": {
-    "tomaltach.rest/1.0.4": {
+    "tomaltach.rest/1.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -354,7 +354,7 @@
     "jetbrains.annotations/10.4.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-BHOL9R1ueuzAJTHvWpczsxCFoKBzv2ya3zC7mvj4Rp1HkFNSMZOPTNSYSwwTmva/Lv3DHmqOTZ50IBOQh8Lg1g==",
+      "sha512": "sha512-kjUPEwlfJSKglzubShOIZ3yhap+9vGz3QTl8isE9+CNkCefW9De8pv8fwV6U7N+HMsJBx9f/R5pnuxKlT2FQOA==",
       "path": "jetbrains.annotations/10.4.0",
       "hashPath": "jetbrains.annotations.10.4.0.nupkg.sha512"
     },
@@ -389,7 +389,7 @@
     "newtonsoft.json/10.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-wBM7i7i3U2WX0ecor4zdVGvgrwFUjuigBoHKiL+nH39fCOpCPjBY3RDqJM32edvdyTAVdjzlccHsg41+/+zpSA==",
+      "sha512": "sha512-MoATFm6YJyk5OdqDdxDWfKe5dkY3Cygu0wrpKPH/LbWtMmSuD/3G/JIInt9sIJN7hKQOFYCIb2UjLc2vO5byQQ==",
       "path": "newtonsoft.json/10.0.3",
       "hashPath": "newtonsoft.json.10.0.3.nupkg.sha512"
     },

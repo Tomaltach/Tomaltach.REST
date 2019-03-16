@@ -13,23 +13,20 @@ namespace Tomaltach.REST
         private const string APPJSON = "application/json";
         private HttpClient _httpClient = new HttpClient();
 
-        protected string _baseUri = null;
-        protected string _controller = null;
-
         public abstract string BaseURI { get; set; }
         public abstract string Controller { get; set; }
 
         public async Task<string> GET([NotNull] string uri)
         {
             if (uri == null) throw new ArgumentNullException(nameof(uri));
-            if (_baseUri == null) throw new ArgumentNullException(nameof(_baseUri));
-            if (_controller == null) throw new ArgumentNullException(nameof(_controller));
+            if (BaseURI == null) throw new ArgumentNullException(nameof(BaseURI));
+            if (Controller == null) throw new ArgumentNullException(nameof(Controller));
 
             try
             {
-                _httpClient.BaseAddress = new Uri(_baseUri);
+                _httpClient.BaseAddress = new Uri(BaseURI);
                 _httpClient.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue(APPJSON));
-                var fullUri = String.Format("api/{0}/{1}", _controller, uri);
+                var fullUri = $"api/{Controller}/{uri}";
                 var response = _httpClient.GetAsync(fullUri);
                 var results = await response.Result.Content.ReadAsStringAsync();
                 return results;
@@ -44,14 +41,14 @@ namespace Tomaltach.REST
         {
             if (uri == null) throw new ArgumentNullException(nameof(uri));
             if (json == null) throw new ArgumentNullException(nameof(json));
-            if (_baseUri == null) throw new ArgumentNullException(nameof(_baseUri));
-            if (_controller == null) throw new ArgumentNullException(nameof(_controller));
+            if (BaseURI == null) throw new ArgumentNullException(nameof(BaseURI));
+            if (Controller == null) throw new ArgumentNullException(nameof(Controller));
 
             try
             {
-                _httpClient.BaseAddress = new Uri(_baseUri);
+                _httpClient.BaseAddress = new Uri(BaseURI);
                 _httpClient.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue(APPJSON));
-                var fullUri = String.Format("api/{0}/{1}", _controller, uri);
+                var fullUri = $"api/{Controller}/{uri}";
                 var content = new StringContent(json, Encoding.UTF8, APPJSON);
                 var response = _httpClient.PostAsync(fullUri, content);
                 var results = await response.Result.Content.ReadAsStringAsync();
@@ -76,14 +73,14 @@ namespace Tomaltach.REST
         {
             if (uri == null) throw new ArgumentNullException(nameof(uri));
             if (json == null) throw new ArgumentNullException(nameof(json));
-            if (_baseUri == null) throw new ArgumentNullException(nameof(_baseUri));
-            if (_controller == null) throw new ArgumentNullException(nameof(_controller));
+            if (BaseURI == null) throw new ArgumentNullException(nameof(BaseURI));
+            if (Controller == null) throw new ArgumentNullException(nameof(Controller));
 
             try
             {
-                _httpClient.BaseAddress = new Uri(_baseUri);
+                _httpClient.BaseAddress = new Uri(BaseURI);
                 _httpClient.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue(APPJSON));
-                var fullUri = String.Format("api/{0}/{1}", _controller, uri);
+                var fullUri = $"api/{Controller}/{uri}";
                 var content = new StringContent(json, Encoding.UTF8, APPJSON);
                 var response = _httpClient.PutAsync(fullUri, content);
                 var results = await response.Result.Content.ReadAsStringAsync();
